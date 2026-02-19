@@ -14,12 +14,12 @@
 		/>
 		<div>
 			<p class="text-xs font-medium uppercase tracking-[0.2em] text-slate-500">Parfuem Boutique</p>
-			<h1 class="mt-1 text-3xl font-semibold tracking-tight text-slate-900 sm:text-4xl">Damen-Duefte</h1>
+			<h1 class="mt-1 text-3xl font-semibold tracking-tight text-slate-900 sm:text-4xl">Damen-Düfte</h1>
 		</div>
 	</div>
 
 	<p class="mb-8 max-w-3xl text-sm leading-relaxed text-slate-600 sm:text-base">
-		Florale, elegante und moderne Kompositionen fuer eine klare Signatur. Alle Produkte sind als Mockup strukturiert und spaeter API-ready.
+		Florale, elegante und moderne Kompositionen für eine klare Signatur. Alle Produkte sind als Mockup strukturiert und später API-ready.
 	</p>
 
 	<div class="grid gap-6 sm:grid-cols-2 xl:grid-cols-4">
