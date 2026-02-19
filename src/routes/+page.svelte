@@ -72,7 +72,7 @@
 				<img src="/parfum/logo-main.jpeg" alt="Herren Logo" class="h-14 w-14 rounded-full border border-slate-300 object-cover" />
 				<div>
 					<p class="text-xs uppercase tracking-[0.2em] text-slate-500">Kategorie</p>
-					<h3 class="mt-1 text-2xl font-semibold text-slate-900">Herren-Duefte</h3>
+					<h3 class="mt-1 text-2xl font-semibold text-slate-900">Herren-Düfte</h3>
 				</div>
 			</div>
 			<img src="/parfum/men-spray.jpeg" alt="Herren Duftwelt" class="h-52 w-full object-cover transition duration-500 group-hover:scale-105" />
@@ -86,7 +86,7 @@
 				<img src="/parfum/logo-women.jpeg" alt="Damen Logo" class="h-14 w-14 rounded-full border border-pink-200 object-cover" />
 				<div>
 					<p class="text-xs uppercase tracking-[0.2em] text-slate-500">Kategorie</p>
-					<h3 class="mt-1 text-2xl font-semibold text-slate-900">Damen-Duefte</h3>
+					<h3 class="mt-1 text-2xl font-semibold text-slate-900">Damen-Düfte</h3>
 				</div>
 			</div>
 			<img src="/parfum/lab-bottle.jpeg" alt="Damen Duftwelt" class="h-52 w-full object-cover transition duration-500 group-hover:scale-105" />
