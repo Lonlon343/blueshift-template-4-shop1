@@ -14,8 +14,8 @@
 				class="h-16 w-16 rounded-full border border-slate-300 bg-slate-100 object-cover"
 			/>
 			<div>
-				<p class="text-xs font-medium uppercase tracking-[0.2em] text-slate-500">Parfuem Boutique</p>
-				<h1 class="mt-1 text-3xl font-semibold tracking-tight text-slate-900 sm:text-4xl">Herren-Duefte</h1>
+				<p class="text-xs font-medium uppercase tracking-[0.2em] text-slate-500">Parfum Boutique</p>
+				<h1 class="mt-1 text-3xl font-semibold tracking-tight text-slate-900 sm:text-4xl">Herren-Düfte</h1>
 			</div>
 		</div>
 		<a
