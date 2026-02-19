@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&display=swap');
+@import 'tailwindcss';
+
+:root {
+	font-family:
+		'Inter',
+		'Segoe UI',
+		'Helvetica Neue',
+		Arial,
+		'Apple Color Emoji',
+		'Segoe UI Emoji',
+		'Segoe UI Symbol',
+		sans-serif;
+}
+
+body {
+	background-color: #f8fafc;
+	color: #0f172a;
+}
+
+.font-garamond {
+	font-family: 'EB Garamond', Georgia, 'Times New Roman', serif;
+}
